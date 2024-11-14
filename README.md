@@ -1,6 +1,5 @@
 # EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-# Name : Mohamed Ridwan A
-# ID: 212223110030
+
 ## Aim:
 
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
